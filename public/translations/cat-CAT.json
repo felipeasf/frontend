@@ -191,7 +191,8 @@
     "loading_error": "Alguna cosa ha sortit malament mentre recuperàvem les transferències.",
     "no_transfers_yet": "Encara no hi ha transferències.",
     "info": "{{from}} ha transferit {{value}} a {{to}}",
-    "you": "tu"
+    "you": "tu",
+    "title": "Transferència"
   },
   "notifications": {
     "title": "Notificacions",
@@ -450,6 +451,13 @@
       "memo_label": "Comentaris (opcional)",
       "default_memo": "Gràcies per la teva ajuda",
       "submit": "Compra ara"
+    },
+    "delete": "Eliminar",
+    "delete_modal": {
+      "title": "Eliminar",
+      "body": "Estàs segur de que vols eliminar aquest ítem?",
+      "confirm": "Si",
+      "cancel": "No"
     }
   },
   "dashboard": {

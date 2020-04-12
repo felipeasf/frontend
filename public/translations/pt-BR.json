@@ -194,7 +194,8 @@
     "loading_error": "Algo de errado aconteceu ao carregar as transferências.",
     "no_transfers_yet": "Nenhuma transferência.",
     "info": "{{from}} transferiu {{value}} para {{to}}",
-    "you": "voce"
+    "you": "voce",
+    "title": "Transferir"
   },
   "notifications": {
     "title": "Notificações",
@@ -452,6 +453,13 @@
       "memo_label": "Comentários (opcional)",
       "default_memo": "Obrigado pela ajuda!",
       "submit": "Comprar"
+    },
+    "delete": "Excluir",
+    "delete_modal": {
+      "title": "Excluir",
+      "body": "Tem certeza de que deseja excluir este item?",
+      "confirm": "Sim",
+      "cancel": "Não"
     }
   },
   "dashboard": {

@@ -190,7 +190,8 @@
     "loading_error": "Something went wrong while fetching transfers.",
     "no_transfers_yet": "No transfers yet.",
     "info": "{{from}} transfered {{value}} to {{to}}",
-    "you": "you"
+    "you": "you",
+    "title": "Transfer"
   },
   "notifications": {
     "title": "Notifications",
@@ -448,6 +449,13 @@
       "memo_label": "Comments (optional)",
       "default_memo": "Thanks for the help!",
       "submit": "Buy"
+    },
+    "delete": "Delete",
+    "delete_modal": {
+      "title": "Delete",
+      "body": "Are you sure you want to delete this item?",
+      "confirm": "Yes",
+      "cancel": "No"
     }
   },
   "dashboard": {
